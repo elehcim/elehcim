@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I just defended 🎉 my PhD thesis about [numerical simulations of dwarf galaxies](https://research.rug.nl/en/publications/numerical-simulations-of-dwarf-galaxies-in-the-fornax-cluster) in a joint PhD between UGent and RUG Groningen, as a [Sundial ESR](https://www.astro.rug.nl/~sundial/esr.php?esr=11)
+- 🔭 I just defended 🎉 my PhD thesis in Physics about [numerical simulations of dwarf galaxies](https://research.rug.nl/en/publications/numerical-simulations-of-dwarf-galaxies-in-the-fornax-cluster) in a joint PhD between UGent and RUG Groningen, as a [Sundial ESR](https://www.astro.rug.nl/~sundial/esr.php?esr=11)
 - 🌱 I’m currently learning rock climbing
 - 👯 I’d like to collaborate on Python and JuliaLang projects.
 <!--
