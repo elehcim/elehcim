@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I'm currently a Young Scientist at INAF, in Rome, working as a software engineer in the team developing software for Cherenkov telescopes data processing.
-- 🌱 I’m currently learning apache airflow
+- 🌱 I’m currently learning apache airflow and Common Workflow Language (CWL)
 - 👯 I’d like to collaborate on Python and JuliaLang projects.
 <!--
 - 📫 How to reach me: michele.mastropietro@gmail.com
