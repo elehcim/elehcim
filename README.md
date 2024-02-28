@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm currently a Young Scientist at INAF, in Rome, working as a software engineer in the team developing software for Cherenkov telescopes data processing.
-- 🌱 I’m currently learning apache airflow and Common Workflow Language (CWL)
+- 🔭 I'm currently a Technologist at INAF, in Rome, working as a software engineer in the team developing software for Cherenkov telescopes data processing.
+- I love to work with k8s and python and well written C++
+- 🌱 I’m currently learning apache airflow
 - 👯 I’d like to collaborate on Python and JuliaLang projects.
 - My ORCID ID: https://orcid.org/0000-0002-6324-5713
 <!--
