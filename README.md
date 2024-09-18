@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm currently an HPC Scientific Application Engineer at CINECA, in Bologna.
 - I love to work with k8s and python and well written C++
-- 🌱 I’m currently learning apache airflow and OpenStack.
+- 🌱 I’m currently learning OpenStack and Terraform/OpenTofu.
 - 👯 I’d like to collaborate on Python and JuliaLang projects.
 - My ORCID ID: https://orcid.org/0000-0002-6324-5713
 <!--
