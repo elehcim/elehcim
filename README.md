@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I'm currently an HPC Scientific Application Engineer at CINECA, in Bologna.
-- I love to work with k8s and python and well written C++
-- 🌱 I’m currently learning Go and OpenStack.
-- 👯 I’d like to collaborate on Python and JuliaLang projects.
+- I love to work with Kubernetes and Python and well written C++
+- 💬 Ask me about Apache Airflow, Kubernetes, Python.
+- 🌱 I’m currently learning Go, Terraform and OpenStack.
+- 👯 I’d like to collaborate on Python and Go projects.
 - My ORCID ID: https://orcid.org/0000-0002-6324-5713
 <!--
 - 📫 How to reach me: michele.mastropietro@gmail.com
